@@ -572,6 +572,6 @@ Carrera de Computación
 
 ### Navegación
 
-[🏠 Volver al Portafolio Principal](../README.md)
+[⬆ Volver al inicio](#indice)
 
 </div>
