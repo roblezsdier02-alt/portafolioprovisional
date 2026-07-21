@@ -572,6 +572,7 @@ Carrera de Computación
 
 ### Navegación
 
-[⬆ Volver al inicio]( #Unidad1)
+[⬆ Volver al inicio]( #InformaciónGeneral)
+
 
 </div>
