@@ -36,9 +36,13 @@
  **Navegación**
  # Inicio
 
-[🏠 Volver al Portafolio Principal](../README.md)
+<p align="center">
 
-</div>
+<a href="https://github.com/roblezsdier02-alt/Portafolio-Digital-de-Aprendizaje-Teor-a-de-la-Programaci-n.">
+  <img src="https://img.shields.io/badge/⬅️%20Regresar%20al%20Portafolio%20Principal-0A66C2?style=for-the-badge" alt="Regresar al Portafolio Principal">
+</a>
+
+</p>
 
 ---
 
