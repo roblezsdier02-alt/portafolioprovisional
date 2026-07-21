@@ -33,7 +33,7 @@
 
 <div align="center">
 
-📁 **Navegación**
+ **Navegación**
 
 [🏠 Volver al Portafolio Principal](../README.md)
 
@@ -572,6 +572,6 @@ Carrera de Computación
 
 ### Navegación
 
-[⬆ Volver al inicio](#Unidad1)
+[⬆ Volver al inicio](#Navegación)
 
 </div>
