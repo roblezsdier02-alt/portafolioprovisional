@@ -34,7 +34,7 @@
 
 <div align="center">
 
-### 📁 Navegación
+### Inicio
 
 <p align="center">
 
@@ -836,10 +836,7 @@ Todo el material presentado fue revisado, comprendido y validado por el estudian
 
 ### Navegación
 
-🏠 [Portafolio Principal](../README.md)
+🏠 [Subir al inicio](#Inicio)
 
-📂 [Unidad 1](../Unidad-1/)
-
-📂 [Unidad 3](../Unidad-3/)
 
 </div>
