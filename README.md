@@ -34,7 +34,7 @@
 <div align="center">
 
  **Navegación**
- #Inicio
+ # Inicio
 
 [🏠 Volver al Portafolio Principal](../README.md)
 
