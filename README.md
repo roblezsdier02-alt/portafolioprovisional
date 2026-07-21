@@ -550,7 +550,7 @@ Todo el contenido fue revisado, comprendido y validado por el estudiante antes d
 
 <div align="right">
 
-[⬆ Volver al índice](#indice)
+[⬆ Volver al índice](#Navegación)
 
 </div>
 
