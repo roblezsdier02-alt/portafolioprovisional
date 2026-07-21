@@ -550,7 +550,7 @@ Todo el contenido fue revisado, comprendido y validado por el estudiante antes d
 
 <div align="right">
 
-[⬆ Volver al índice](#Navegación)
+[⬆ Volver al índice](#UNIVERSIDADNACIONALDELOJA)
 
 </div>
 
